@@ -1,7 +1,7 @@
 ![head image](https://github.com/sakibahmed-da/inventory_management/blob/main/head_image.jpeg)
 
 <h1>Ryans Inventory Analysis</h1>
-***
+
 <h2>Project Overview </h2>
 
 Explore inventory management using sample sales data to gain valuable insights. Learn to analyze sales trends, stock levels, and demand patterns to optimize inventory. Segment and cluster data to identify high-performing products, seasonal demand, and customer purchasing behavior. Utilize data-driven strategies to reduce stockouts, minimize overstocking, and improve supply chain efficiency. Enhance decision-making by leveraging predictive analytics, sales forecasting, and inventory optimization techniques.
@@ -17,7 +17,7 @@ Explore inventory management using sample sales data to gain valuable insights. 
 
 <h2>Data Cleaning Process </h2>
 
-Jupyter Notebook: [link](https://github.com/sakibahmed-da/inventory_management/blob/main/inventory_manage.ipynb)
+****Jupyter Notebook****: [Link](https://github.com/sakibahmed-da/inventory_management/blob/main/inventory_manage.ipynb)
 
 <h2>Dashboard </h2>
 
