@@ -1,6 +1,6 @@
 ![head image](https://github.com/sakibahmed-da/inventory_management/blob/main/head_image.jpeg)
 
-***Ryans Inventory Analysis***
+**Ryans Inventory Analysis**
 ***
 ****Project Overview:****
 
@@ -15,7 +15,7 @@ sales forecasting, and inventory optimization techniques.
 
 - Dataset Source: [Kaggle](https://www.kaggle.com/datasets/msjahid/ryans-laptop-inventory-and-specifications)
 - Dataset Name(before cleaning): [ryans_laptop_inventory.csv](https://github.com/sakibahmed-da/inventory_management/blob/main/ryans_laptop_inventory.csv)
-- Dataset Name(after cleaning):[final_ryans_inventory.csv](https://github.com/sakibahmed-da/inventory_management/blob/main/final_ryans_inventory.csv)
+- Dataset Name(after cleaning): [final_ryans_inventory.csv](https://github.com/sakibahmed-da/inventory_management/blob/main/final_ryans_inventory.csv)
 - Dataset Size: 423KB -> 392KB
 
 ***Data Cleaning Process***
@@ -26,7 +26,7 @@ Jupyter Notebook: [link](https://github.com/sakibahmed-da/inventory_management/b
 
 ![ryans_inventory_dashboard.png](https://github.com/sakibahmed-da/inventory_management/blob/main/ryans_inventory_dashboard.png)
 
-***Key Findings ***
+**Key Findings **
 
 ****Performance Index by Brand:**** Focus on increasing stock for fast-selling Liquid Retina models and reconsider bulk stocking of slow-moving QHD+, WUXGA, and LED displays.
 
@@ -39,7 +39,7 @@ Jupyter Notebook: [link](https://github.com/sakibahmed-da/inventory_management/b
 [See more](https://github.com/sakibahmed-da/inventory_management/blob/main/report_ryans_inventory.pdf)
 
 
-***Conclusion***
+**Conclusion**
 
 Effective inventory management ensures optimal stock levels, reducing both stockouts and 
 excess inventory. Analyzing sales trends and customer purchasing behaviors helps businesses 
